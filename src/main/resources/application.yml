@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: api-account
+    cloud:
+        config:
+            uri: mongodb+srv://admin:admin12345@cluster0.7mgcx.mongodb.net/todotic-account-api?retryWrites=true&w=majority
